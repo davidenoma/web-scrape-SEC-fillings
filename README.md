@@ -8,6 +8,11 @@ the Securities Exchange Act of 1934, the Trust Indenture Act of 1939, and the In
 
 ### The code is able to return csv files of the SEC filling for a stock on the EDGAR Database
 
+# Tools used:
+Beautiful soup
+Yahoo finance api
+Panda, numpy and matplotlib
+
 
 
 
