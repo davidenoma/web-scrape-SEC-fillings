@@ -8,6 +8,13 @@ the Securities Exchange Act of 1934, the Trust Indenture Act of 1939, and the In
 
 ### The code is able to return csv files of the SEC filling for a stock on the EDGAR Database
 
+
+## Historical stock prices of TSLA 
+![](https://github.com/davidenoma/web-scrape-SEC-fillings/blob/main/TSLA_historical.png)
+## Example plot of prices comparison of AAPL
+![](https://github.com/davidenoma/web-scrape-SEC-fillings/blob/main/AAPL_historical.png)
+
+
 # Tools used:
 Beautiful soup
 Yahoo finance api
